@@ -10,6 +10,7 @@
 
 
 ### Social: </br>
+- [Twitch](https://www.twitch.tv/izanespinosaserv)<br>
 - [Discord](https://discord.com/users/510747520369033228)<br>
 - [Twitter](https://twitter.com/Izanesp06)<br>
 - [YouTube](https://www.youtube.com/channel/UC2e07HDGVuUmoWagkMj_g2w)<br>
