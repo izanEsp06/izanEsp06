@@ -1,5 +1,3 @@
-### Hi I'm izanespinosaserv, I'm developing Discord bots! 🎉
-
 #### 🔧 Programming languages:
 - JavaScript
 - Java
