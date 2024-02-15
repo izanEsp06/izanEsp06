@@ -1,4 +1,4 @@
-#### 🔧 Programming languages:
+#### 🔧 Lenguajes aprendidos:
 - JavaScript
 - Java
 - Python
