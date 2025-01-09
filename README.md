@@ -1,2 +1,1 @@
-#### 🔧 Lenguajes aprendidos:
-- Python
+
