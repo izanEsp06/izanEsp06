@@ -39,7 +39,7 @@ Cuento con una base sólida en redes y seguridad, avalada por los siguientes cur
 ## 📫 Contacto
 
 - 📧 **Email:** [izanespinosaservcontacto@gmail.com](mailto:izanespinosaservcontacto@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/izan-espinosa-servin/]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/izan-espinosa-servin/
 - 📍 **Localidad:** Valencia
 
 ---
